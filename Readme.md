@@ -1,0 +1,1 @@
+The February data IS showing correctly - your table shows "February 2026 8/840 1% 1/28 0" which reflects today's 8 points from completing the "coding" and "college" tasks. The display is working as expected!
